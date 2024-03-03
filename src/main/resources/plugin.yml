@@ -1,0 +1,7 @@
+name: Serialization
+version: '${project.version}'
+main: me.kadenduckwitz.serialization.Serialization
+api-version: '1.20'
+commands:
+  serialize:
+    description: Serializes the item in the players hand
